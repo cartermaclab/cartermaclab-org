@@ -1,0 +1,47 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "News"
+  weight = 200
+  identifier = "news"
+  url = "/news/"
+
+  [[main]]
+  name = "People"
+  weight = 300
+  identifier = "people"
+  url = "/people/"
+
+  [[main]]
+  name = "Research"
+  weight = 400
+  identifier = "research"
+  url = "/research/"
+
+  [[main]]
+  name = "Papers"
+  weight = 500
+  identifier = "papers"
+  url = "/papers/"
+
+  [[main]]
+  name = "Teaching"
+  weight = 600
+  identifier = "teaching"
+  url = "/teaching/"
+
+  [[main]]
+  name = "Join"
+  weight = 700
+  identifier = "join"
+  url = "/join/"
+
+    [[main]]
+  name = "Resources"
+  weight = 800
+  identifier = "resources"
+  url = "/resources/"
