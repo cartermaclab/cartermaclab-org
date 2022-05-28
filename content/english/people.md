@@ -5,59 +5,50 @@ description: Lab members
 title:
 ---
 
-<div class="row">
+<span>
+{{< figure src="/images/people/mjc.jpg" alt="image" height="150" width="150" class="left" >}}
 
-  <div class="column">
-    <div class="card">
-      <br>
-      <img src="/images/people/mjc.jpg" alt="Mike" style="width:80%" class="avatar h-100">
-      <div class="container">
-        <h2>Mike Carter, Ph.D</h2>
-        <p class="title">Assistant Professor</p>
-        <p>Kinesiology</p>
-      </div>
-    </div>
-  </div>
+**Mike Carter, Ph.D** <br>
+Assistant Professor
 
-  <div class="column">
-    <div class="card">
-      <br>
-      <img src="/images/people/brad-mckay.jpg" alt="Mike" style="width:80%" class="avatar h-100">
-      <div class="container">
-        <h2>Brad McKay, Ph.D</h2>
-        <p class="title">Postdoctoral Fellow</p>
-        <p>Kinesiology</p>
-      </div>
-    </div>
-  </div>
+cartem11 [at] mcmaster [dot] ca
 
-  <div class="column">
-    <div class="card">
-      <br>
-      <img src="/images/people/laura-stgermain.png" alt="Laura" style="width:80%" class="avatar h-100">
-      <div class="container">
-        <h2>Laura St. Germain</h2>
-        <p class="title">Ph.D Candidate</p>
-        <p>Kinesiology</p>
-      </div>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
-      <br>
-      <img src="/images/people/beth-mitchell.jpg" alt="Beth" style="width:80%" class="avatar h-100">
-      <div class="container">
-        <h2>Elizabeth Mitchell</h2>
-        <p class="title">Undergraduate Research Assistant</p>
-        <p>Integrated Biomedical Engineering & Health Sciences</p>
-      </div>
-    </div>
-  </div>
+[Google Scholar](https://scholar.google.com/citations?user=9FY5gBwAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [BioSketch](https://cartermaclab.org)
+</span>
+<span style="height: 5px; display: block;"></span>
+<span>
+{{< figure src="/images/people/brad-mckay.jpg" alt="image" height="150" width="150" class="left" >}}
 
-</div> 
+**Brad McKay, Ph.D** <br>
+Postdoctoral Fellow
 
-<span style="height: 1px; display: block;"></span>
+mckayb9 [at] mcmaster [dot] ca
+
+[Google Scholar](https://scholar.google.ca/citations?user=jCmvakcAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [BioSketch](https://cartermaclab.org)
+</span>
+<span style="height: 5px; display: block;"></span>
+<span>
+{{< figure src="/images/people/laura-stgermain.png" alt="image" height="150" width="150" class="left" >}}
+
+**Laura St. Germain** <br>
+Ph.D Candidate, *Kinesiology*
+
+stgerml [at] mcmaster [dot] ca
+
+[ResearchGate](https://www.researchgate.net/profile/Laura-St-Germain) &nbsp;&nbsp;&nbsp;&nbsp; [BioSketch](https://cartermaclab.org)
+</span>
+<span style="height: 5px; display: block;"></span>
+<span>
+{{< figure src="/images/people/beth-mitchell.jpg" alt="image" height="150" width="150" class="left" >}}
+
+**Elizabeth Mitchell** <br>
+Undergraduate Research Assistant <br>
+*Integrated Biomedical Engineering & Health Sciences*
+
+mitche4 [at] mcmaster [dot] ca
+</span>
+
+<span style="height: 20px; display: block;"></span>
 <span>
 ## Collaborators
 
