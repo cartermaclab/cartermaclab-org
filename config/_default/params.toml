@@ -7,7 +7,7 @@ profilePicture = "images/cartermaclab-logo_orange.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = ["css/custom.css"]
+customCss = ["css/custom.css", "css/academicons.css", "css/academicons.min.css"]
 # example ["js/custom.js"]
 customJs = []
 mainSections = [] # have as ["post"] to show recent ones
