@@ -13,7 +13,12 @@ trainee<sup>&ast;</sup>; co-senior author<sup>&dagger;</sup>
 1. [**Exercising choice over feedback schedules during practice is not advantageous for motor learning**](https://doi.org/10.31234/osf.io/n52pq)  
 Laura St. Germain<sup>&ast;</sup>, Brad McKay<sup>&ast;</sup>, Andrew Poskus<sup>&ast;</sup>, Allison Williams<sup>&ast;</sup>, Olena Leshchyshen<sup>&ast;</sup>, Sherry Feldman<sup>&ast;</sup>, Joshua G.A. Cashaback, **Michael J. Carter**  
 *PsyArXiv*  
-[<i class="fa-solid fa-file-pdf"></i>][101] &nbsp;[<i class="fa-brands fa-github"></i>](https://github.com/cartermaclab/expt_sc-feedback-characteristics)
+[<i class="fa-solid fa-file-pdf"></i>][102] &nbsp;[<i class="fa-brands fa-github"></i>](https://github.com/cartermaclab/expt_sc-feedback-characteristics)
+
+1. [**A critical re-analysis of six implicit learning papers**](https://doi.org/10.31234/osf.io/n8mab)  
+Brad McKay<sup>&ast;</sup>, **Michael J. Carter**  
+*PsyArXiv*  
+[<i class="fa-solid fa-file-pdf"></i>][101] &nbsp;[<i class="fa-brands fa-github"></i>](https://github.com/cartermaclab/comm_lola-tzetzis-data-irregularities)
 
 1. [**Gaze behaviour reveals flexible encoding of competing reach goals under conditions of target uncertainty**](https://doi.org/10.1101/2020.09.02.279414)  
 Anouk J. de Brouwer, **Michael J. Carter**, Lauren C. Smail, Daniel M. Wolpert, Jason P. Gallivan, J. Randall Flanagan  
@@ -188,27 +193,6 @@ Diane M. Ste-Marie, **Michael J. Carter**, Zachary D. Yantha
 
 
 [100]:https://github.com/cartermaclab/articles_mjc/raw/main/preprint_debrouwer-etal_gaze-behaviour-reveals-flexible-encoding-of-competing-reach-goals.pdf
-[101]:https://github.com/cartermaclab/articles_mjc/raw/main/preprint_stgermain-etal_exercising-choice-over-fb-schedules-is-not-advantageous-for-learning.pdf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[101]:https://github.com/cartermaclab/articles_mjc/raw/main/preprint_mckay-carter_critical-reanalysis-of-six-implicit-learning-papers.pdf
+[102]:https://github.com/cartermaclab/articles_mjc/raw/main/preprint_stgermain-etal_exercising-choice-over-fb-schedules-is-not-advantageous-for-learning.pdf
 
