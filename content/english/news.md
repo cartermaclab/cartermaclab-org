@@ -5,6 +5,8 @@ description: News and Milestones
 title: Lab News and Milestones
 ---
 
+<font color="#d08770"><strong>[July 13 2022].</strong></font> **New preprint available.** McKay et al. Low prevalence of *a priori* power analyses in motor behavior research. *SportXiv*
+
 <font color="#d08770"><strong>[June 1 2022].</strong></font> To better capture the emerging metascience line of research in the lab, the lab has been re-branded as the Action, Cognition, & Metascience lab. We also have a new layout for the lab website.
 
 <font color="#d08770"><strong>[May 6 2022].</strong></font> **New preprint available.** St. Germain et al. Exercising choice over feedback schedules during practice is not advantageous for motor learning. *PsyArXiv*

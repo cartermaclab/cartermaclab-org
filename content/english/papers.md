@@ -10,6 +10,11 @@ trainee<sup>&ast;</sup>; co-senior author<sup>&dagger;</sup>
 
 ## Preprints
 
+1. [**Low prevalence of *a priori* power analyses in motor behavior research**](https://doi.org/10.51224/SRXIV.175)  
+Brad McKay<sup>&ast;</sup>, Abbey Corson, Mary-Anne Vinh, Gianna Jeyarajan<sup>&ast;</sup>, Chitrini Tandon<sup>&ast;</sup>, Hugh Brooks, Julie Hubley, **Michael J. Carter**  
+*SportXiv*  
+[<i class="fa-solid fa-file-pdf"></i>][103] &nbsp;[<i class="fa-brands fa-github"></i>](https://github.com/cartermaclab/proj_power-motor-behaviour)
+
 1. [**Exercising choice over feedback schedules during practice is not advantageous for motor learning**](https://doi.org/10.31234/osf.io/n52pq)  
 Laura St. Germain<sup>&ast;</sup>, Brad McKay<sup>&ast;</sup>, Andrew Poskus<sup>&ast;</sup>, Allison Williams<sup>&ast;</sup>, Olena Leshchyshen<sup>&ast;</sup>, Sherry Feldman<sup>&ast;</sup>, Joshua G.A. Cashaback, **Michael J. Carter**  
 *PsyArXiv*  
@@ -195,4 +200,4 @@ Diane M. Ste-Marie, **Michael J. Carter**, Zachary D. Yantha
 [100]:https://github.com/cartermaclab/articles_mjc/raw/main/preprint_debrouwer-etal_gaze-behaviour-reveals-flexible-encoding-of-competing-reach-goals.pdf
 [101]:https://github.com/cartermaclab/articles_mjc/raw/main/preprint_mckay-carter_critical-reanalysis-of-six-implicit-learning-papers.pdf
 [102]:https://github.com/cartermaclab/articles_mjc/raw/main/preprint_stgermain-etal_exercising-choice-over-fb-schedules-is-not-advantageous-for-learning.pdf
-
+[103]:https://github.com/cartermaclab/articles_mjc/raw/main/preprint_mckay-etal_low-prevalence-of-power-analyses-in-motor-behaviour.pdf
