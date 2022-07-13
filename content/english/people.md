@@ -5,48 +5,49 @@ description: Lab members
 title:
 ---
 
-<span>
-{{< figure src="/images/people/mjc.jpg" alt="image" height="150" width="150" class="left" >}}
+<div class="row">
+  <div class="column left">
+    {{< figure src="/images/people/mjc.jpg" alt="image" height="150" width="150" class="left" >}}
+  </div>
+  <div class="column right">
+    <p><strong>Mike Carter, Ph.D.</strong> <br> Assistant Professor </p>
+    <p>cartem11 [at] mcmaster [dot] ca</p>
+    <p><a href="https://scholar.google.com/citations?user=9FY5gBwAAAAJ&hl=en">Google Scholar</a> </p>
+  </div>
+</div>
 
-**Mike Carter, Ph.D** <br>
-Assistant Professor
+<div class="row">
+  <div class="column left">
+    {{< figure src="/images/people/brad-mckay.jpg" alt="image" height="150" width="150" class="left" >}}
+  </div>
+  <div class="column right">
+    <p><strong>Brad McKay, Ph.D.</strong> <br> Postdoctoral Fellow </p>
+    <p>mckayb9 [at] mcmaster [dot] ca</p>
+    <p><a href="https://scholar.google.ca/citations?user=jCmvakcAAAAJ&hl=en">Google Scholar</a> </p>
+  </div>
+</div>
 
-cartem11 [at] mcmaster [dot] ca
+<div class="row">
+  <div class="column left">
+    {{< figure src="/images/people/laura-stgermain.png" alt="image" height="150" width="150" class="left" >}}
+  </div>
+  <div class="column right">
+    <p><strong>Laura St. Germain</strong> <br> Ph.D. Candidate, <i>Kinesiology</i> </p>
+    <p>stgerml [at] mcmaster [dot] ca</p>
+    <p><a href="https://www.researchgate.net/profile/Laura-St-Germain">Research Gate</a> </p>
+  </div>
+</div>
 
-[Google Scholar](https://scholar.google.com/citations?user=9FY5gBwAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [BioSketch](https://cartermaclab.org)
-</span>
-<span style="height: 5px; display: block;"></span>
-<span>
-{{< figure src="/images/people/brad-mckay.jpg" alt="image" height="150" width="150" class="left" >}}
-
-**Brad McKay, Ph.D** <br>
-Postdoctoral Fellow
-
-mckayb9 [at] mcmaster [dot] ca
-
-[Google Scholar](https://scholar.google.ca/citations?user=jCmvakcAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [BioSketch](https://cartermaclab.org)
-</span>
-<span style="height: 5px; display: block;"></span>
-<span>
-{{< figure src="/images/people/laura-stgermain.png" alt="image" height="150" width="150" class="left" >}}
-
-**Laura St. Germain** <br>
-Ph.D Candidate, *Kinesiology*
-
-stgerml [at] mcmaster [dot] ca
-
-[ResearchGate](https://www.researchgate.net/profile/Laura-St-Germain) &nbsp;&nbsp;&nbsp;&nbsp; [BioSketch](https://cartermaclab.org)
-</span>
-<span style="height: 5px; display: block;"></span>
-<span>
-{{< figure src="/images/people/beth-mitchell.jpg" alt="image" height="150" width="150" class="left" >}}
-
-**Elizabeth Mitchell** <br>
-Undergraduate Research Assistant <br>
-*Integrated Biomedical Engineering & Health Sciences*
-
-mitche4 [at] mcmaster [dot] ca
-</span>
+<div class="row">
+  <div class="column left">
+    {{< figure src="/images/people/beth-mitchell.jpg" alt="image" height="150" width="150" class="left" >}}
+  </div>
+  <div class="column right">
+    <p><strong>Elizabeth Mitchell</strong> <br> Undergraduate Research Assistant <br>
+    <i>Integrated Biomedical Engineering & Health Sciences</i></p>
+    <p>mitche4 [at] mcmaster [dot] ca</p>
+  </div>
+</div>
 
 <span style="height: 20px; display: block;"></span>
 <span>
@@ -64,35 +65,34 @@ mitche4 [at] mcmaster [dot] ca
 
 ### Graduate Students
 
-**Mirette Mounir**, M.Sc. Kinesiology (2019-21); *now a student in the Schulich School of Medicine & Dentistry, Western University*  
-**Rajbir Sihu**, M.Sc. Kinesiology (2019-21); *now a student in the Faculty of Dentistry, University of Toronto*
-
+**Mirette Mounir**, M.Sc. Kinesiology (2019-21); *now completing Dentistry at Western University*  
+**Rajbir Sihu**, M.Sc. Kinesiology (2019-21); *now completing Dentistry at the University of Toronto*
 
 ### Undergraduate Students
 
-**Raika Bourmand** (2020-22); *now a MSc student in Global Health, McMaster University*  
+**Raika Bourmand** (2020-22); *now completing an M.Sc in Global Health at McMaster University*  
 **Katie Douglas** (2021-22)  
-**Armin Sariaslani** (2021-22)  
+**Armin Sariaslani** (2021-22); *now completing Medical School at the University of Toronto*  
 **Thinzar Soe** (2021-22)  
 **Anita Chaseendran** (2021-22)  
 **Gianna Jeyarajan** (2021-22)  
-**Madison Campbell** (2019-21); *now a student in the Michael G. Degroote School of Medicine, McMaster University*  
+**Madison Campbell** (2019-21); *now completing Medical School at McMaster University*  
 **Kenzie Bell** (2019-21)  
-**Charlie Violin** (2019-21); *now a MSc student in eHealth, McMaster University*  
+**Charlie Violin** (2019-21); *now completing an M.Sc in eHealth at McMaster University*  
 **Ashton Yuen** (2019-21)  
-**Allison Williams** (2019-21); *now a student in the Faculty of Medicine, University of Ottawa*  
-**Andrew Poskus** (2019-21); *now a student in the Faculty of Medicine, University of Ottawa*  
-**Julianna Marfisi** (2020-21); *now a student in Occupational Therapy, McMaster University*  
-**Matthew Tobis** (2019-21); *now a student in the Michael G. Degroote School of Medicine, McMaster University*  
-**Sherry Feldman** (2019-20); *now a student in the Faculty of Medicine, University of Ottawa*  
-**Sarah Fu** (2019-20); *now a student in the Faculty of Medicine, University of Ottawa*  
-**Olena Leshchyshen** (2019-20); *now a student in the School of Medicine, University College Dublin*  
+**Allison Williams** (2019-21); *now completing Medical School at the University of Ottawa*  
+**Andrew Poskus** (2019-21); *now completing Medical School at the University of Ottawa*  
+**Julianna Marfisi** (2020-21); *now completing Occupational Therapy at McMaster University*  
+**Matthew Tobis** (2019-21); *now completing Medical School McMaster University*  
+**Sherry Feldman** (2019-20); *now completing Medical School at the University of Ottawa*  
+**Sarah Fu** (2019-20); *now completing Medical School at the University of Ottawa*  
+**Olena Leshchyshen** (2019-20); *now completing Medical School at the University College Dublin*  
 **Noura Balbaa** (2019-20)  
 **Faran Chaudhry** (2020)  
 **Ammaar Jan** (2020)  
-**Maya El-Zahed** (2019); *now a MSc candidate in the School of Kinesiology & Health Science, York University*  
+**Maya El-Zahed** (2019); *now completing an M.Sc in Kinesiology at York University*  
 **Grant Yang** (2019); *now working as a Kinesiologist*  
-**Rita Waseem** (2018); *now a student in the School of Pharmacy, University of Waterloo*  
+**Rita Waseem** (2018);  
 **Christian Kleiser** (2018)  
 **Chris Li** (2018)  
 **Faryal Zahir** (2018)
